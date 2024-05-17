@@ -31,3 +31,10 @@ button {
   border-radius: 3px;
   margin: 10px 0;
 }
+input{
+  background-color: black;
+  color: #fff;
+  border:1px solid #fff;
+  padding: 5px;
+  border-radius: 3px;
+}
